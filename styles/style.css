@@ -47,6 +47,7 @@
 				font-size: 22px;
 			}
 			body {
+				max-width: 50%;
 				display: table-cell;
     				vertical-align: middle;
 				text-align: center;
